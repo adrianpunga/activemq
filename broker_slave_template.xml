@@ -37,13 +37,13 @@ under the License.
        -->
       <journal-type>ASYNCIO</journal-type>
 
-      <paging-directory>/mnt/media/clusterdata/paging</paging-directory>
+      <paging-directory>/mnt/fssactivemq/clusterdata/paging</paging-directory>
 
-      <bindings-directory>/mnt/media/clusterdata/bindings</bindings-directory>
+      <bindings-directory>/mnt/fssactivemq/clusterdata/bindings</bindings-directory>
 
-      <journal-directory>/mnt/media/clusterdata/journal</journal-directory>
+      <journal-directory>/mnt/fssactivemq/clusterdata/journal</journal-directory>
 
-      <large-messages-directory>/mnt/media/clusterdata/large-messages</large-messages-directory>
+      <large-messages-directory>/mnt/fssactivemq/clusterdata/large-messages</large-messages-directory>
 
       <journal-datasync>true</journal-datasync>
 
