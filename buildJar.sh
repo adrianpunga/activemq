@@ -7,5 +7,5 @@ cd ActiveMQ
 sudo wget https://repo1.maven.org/maven2/org/apache/activemq/activemq-all/5.16.1/activemq-all-5.16.1.jar
 sudo chmod 777 -R /tmp/activemq/ActiveMQ
 jar cvfm /tmp/activemq/ActiveMQ.jar META-INF/MANIFEST.MF ./*
-cd ~
+cd /tmp/activemq
 sudo chmod 777 ActiveMQ.jar
